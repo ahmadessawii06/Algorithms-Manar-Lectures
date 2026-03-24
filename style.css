@@ -161,7 +161,7 @@ h1 {
   font-size: 1rem;
   display: flex;
   align-items: center;
-  font-weight: 600;
+  font-weight: bold;
   background: var(--zoom-light);
   padding: 8px 15px;
   border-radius: 50px;
